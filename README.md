@@ -10,7 +10,7 @@
     - g++ main.cpp
     - ./a.out
 
-### Normal mode: The list of functionalities that will be provided.
+### Normal mode: The list of functionalities that application provides.
 
 - Display a list of directories and files in the current folder
     - Every file in the directory will be displayed on a new line with 
